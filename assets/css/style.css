@@ -685,7 +685,7 @@ img {
     font-weight: 700;
     line-height: 30px;
     text-transform: capitalize;
-    color: #181614;
+    color: #fff;
     padding: 4px 15px;
     opacity: 1;
     -webkit-transition: all 300ms ease;
@@ -693,7 +693,6 @@ img {
     transition: all 300ms ease;
     font-family: "Poppins", sans-serif;
 }
-
 
 .main-menu .navigation>li>ul {
     position: absolute;
@@ -1102,18 +1101,7 @@ img {
 
 .main-header .sticky-header .header-upper {
     background: #2b2c2e;
-    
 }
-.main-header .sticky-header .header-upper a{
-    color: #fff;
-    background: #2b2c2e;
-    
-}
-.main-header .sticky-header .header-upper ul{
-    background: #2b2c2e;
-    
-}
-
 
 .header-style-two .sticky-header .main-menu .navigation>li.current>a,
 .header-style-two .sticky-header .main-menu .navigation>li>a {
