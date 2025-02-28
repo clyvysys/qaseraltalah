@@ -1106,6 +1106,11 @@ img {
 }
 .main-header .sticky-header .header-upper a{
     color: #fff;
+    background: #2b2c2e;
+    
+}
+.main-header .sticky-header .header-upper ul{
+    background: #2b2c2e;
     
 }
 
